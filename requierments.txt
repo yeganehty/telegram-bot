@@ -1,0 +1,5 @@
+mysql-connector-python==9.0.0
+openpyxl==3.1.5
+pyTelegramBotAPI==4.22.1
+pywin32==306
+requests==2.32.3
